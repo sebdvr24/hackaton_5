@@ -1,2 +1,2 @@
-# hackaton_5 
-Mi proyecto de hackaton 5 para pachaqtec
+# pachaqtec-2 
+Mi proyecto 2 para pachaqtec
